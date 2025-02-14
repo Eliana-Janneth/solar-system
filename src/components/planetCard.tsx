@@ -22,7 +22,7 @@ export default function PlanetCard({ name, tagLine, tagLineIcon, onClickCard, de
         >
             <div className="relative w-full h-48 mb-4">
                 <Image
-                    src={texture || '/default-icon.png'}
+                    src={texture || '/default.png'}
                     alt={`${name} Texture`}
                     layout="fill"
                     objectFit="cover"
@@ -38,7 +38,7 @@ export default function PlanetCard({ name, tagLine, tagLineIcon, onClickCard, de
                 <div className="flex justify-between items-start">
                     <div className="flex items-center gap-2">
                         <span className="font-medium bg-black rounded-full p-1">
-                            <Image src={tagLineIcon || '/default-icon.png'} alt="Tagline Icon" width={30} height={24} />
+                            <Image src={tagLineIcon || '/default.png'} alt="Tagline Icon" width={30} height={24} />
                         </span>
                         <h2 className="text-2xl font-semibold text-gray-900">{name}</h2>
                     </div>
