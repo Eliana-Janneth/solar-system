@@ -35,7 +35,7 @@ Sigue estos pasos para instalar y ejecutar la aplicación localmente:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/solar-system-app.git
+   git clone https://github.com/Eliana-Janneth/solar-system.git
 2. Entra en el directorio del proyecto:
    ```bash
    cd solar-system-app
