@@ -42,6 +42,6 @@ Sigue estos pasos para instalar y ejecutar la aplicación localmente:
 3. Instala las dependencias:
    ```bash
    npm install
-4. Instala las dependencias:
+4. Inicia el servidor de desarrollo:
    ```bash
    npm run dev
