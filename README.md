@@ -22,7 +22,7 @@ Una aplicación web interactiva que muestra información sobre los planetas del 
 
 ## Tecnologías Utilizadas
 
-- **Framework**: [Next.js](https://nextjs.org/)
+- **Framework**: React([Next.js](https://nextjs.org/))
 - **Lenguaje**: TypeScript
 - **Estilos**: Tailwind CSS
 - **Estado**: Zustand
